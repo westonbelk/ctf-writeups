@@ -9,6 +9,8 @@ hero-text: A CTF that challenges you from trivia questions to reverse engineerin
 
 Hosted By: [CU Cyber](https://cucyber.net)
 
+Created By: [Nick Bulischeck](https://nbulischeck.io)
+
 ## Rules
 
 1. No sharing of flags. Helping point someone in the right direction is encouraged as the entire point of a CTF is to learn, but simply handing someone a solution won't benefit them.
