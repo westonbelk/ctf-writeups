@@ -1,8 +1,6 @@
 ---
-layout: ctf
 title: netcat
-challenge-name: netcat
-permalink: /ctf-writeups/nicks-ctf/netcat/
+points: 1
 ---
 
 # Instructions
