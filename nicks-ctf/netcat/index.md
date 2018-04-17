@@ -3,15 +3,13 @@ title: netcat
 points: 1
 ---
 
-# Instructions
+## Instructions
 
 Simply connect to the port using netcat, the network caterpillar, to get your first flag!
 
 Port: 9000
 
----
-
-# Solution
+## Solution
 
 ```
 λ nc ctf.cucyber.net 9000
